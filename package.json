@@ -1,0 +1,24 @@
+{
+  "name": "apiarydreddtravis",
+  "version": "1.0.0",
+  "description": "Apiary-push to Github-clone to local-dredd-travis",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" || exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huijinyuan/ApiaryDreddTravis.git"
+  },
+  "keywords": [
+    "Apiary",
+    "dredd",
+    "travis"
+  ],
+  "author": "Jinou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/huijinyuan/ApiaryDreddTravis/issues"
+  },
+  "homepage": "https://github.com/huijinyuan/ApiaryDreddTravis#readme"
+}
